@@ -27,13 +27,11 @@ section  {
     background: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     img {
-        max-width: 100%; /* Garante que a imagem nunca ultrapasse a largura da secção */
-        height: auto; /* Mantém a proporção original da imagem */
-        display: block; /* Evita margens extras em torno da imagem */
-        margin: 0 auto; /* Centraliza a imagem */
-    }
-    
-    
+        max-width: 100%; 
+        height: auto; 
+        display: block;
+        margin: 0 auto;
+    }    
 }
 footer {
     text-align: center;
